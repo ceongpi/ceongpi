@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Jang ho seong
 
 <!--
 **ceongpi/ceongpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
