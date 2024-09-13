@@ -1,4 +1,4 @@
-## I'm Jang ho seong
+## I'm Jang ho seong from department of Smart City.
 
 <!--
 **ceongpi/ceongpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
